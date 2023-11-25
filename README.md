@@ -26,7 +26,11 @@
 <br/>
 
 #### My ProJect
-<img src="/Users/ksu1013/Desktop/프로젝트 이미지/test.png">
+<img width="500" alt="GodWearMall" src="https://github.com/ksu1013/ksu1013/assets/124007756/c5efbcb9-ea1b-4f1a-837b-e84fbdaa8ae2">
+- 통합검색
+- 자동완성
+- 인기검색어
+
 
 
 <br/>
