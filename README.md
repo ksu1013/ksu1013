@@ -15,15 +15,22 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-   <br/>
-   <br/>
+<br/>
+<br/>
  
 #### :pencil2: Study log
 
 - 🔭 I’m currently working on NHN Diquest
 - 🌱 I’m currently learning Java and DB and restAPI etc.
- 
-  <br/>
+
+<br/>
+
+#### My ProJect
+
+
+
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksu1013)](https://github.com/anuraghazra/github-readme-stats)
 
