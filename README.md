@@ -24,15 +24,6 @@
 - 🌱 I’m currently learning Java and DB and restAPI etc.
 
 <br/>
-
-#### My ProJect
-<img width="500" alt="GodWearMall" src="https://github.com/ksu1013/ksu1013/assets/124007756/c5efbcb9-ea1b-4f1a-837b-e84fbdaa8ae2">
-- 통합검색
-- 자동완성
-- 인기검색어
-
-
-
 <br/>
 <br/>
 
